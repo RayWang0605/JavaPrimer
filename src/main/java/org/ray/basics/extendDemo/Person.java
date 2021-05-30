@@ -1,4 +1,4 @@
-package org.ray.extendDemo;
+package org.ray.basics.extendDemo;
 
 import lombok.Getter;
 import lombok.Setter;

@@ -1,4 +1,4 @@
-package org.ray.basic;
+package org.ray.basics.basic;
 
 public class DataTypeExtension {
     public static void main(String[] args) {

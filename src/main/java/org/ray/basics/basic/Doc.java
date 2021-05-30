@@ -1,4 +1,4 @@
-package org.ray.basic;
+package org.ray.basics.basic;
 
 /**
  * @author Ray

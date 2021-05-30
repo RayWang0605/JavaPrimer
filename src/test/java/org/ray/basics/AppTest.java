@@ -1,4 +1,4 @@
-package org.ray;
+package org.ray.basics;
 
 import static org.junit.Assert.assertTrue;
 
